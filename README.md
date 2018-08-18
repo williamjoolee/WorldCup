@@ -19,12 +19,12 @@ The 2018 FIFA World Cup qualification process was a series of tournaments organi
 
 ---
 
-[![](./images/pymle_cover_double_small.jpg)]
+[![](./images/pymle_cover_double_small.jpg)](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=sr_1_1?ie=UTF8&qid=1470882464&sr=8-1&keywords=python+machine+learning)
 
 
 <br>
 
-[![](./image/worldmap_2018.png)](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=sr_1_1?ie=UTF8&qid=1470882464&sr=8-1&keywords=python+machine+learning)
+[![](./image/worldmap_2018.png)]
 
 <br>
 
