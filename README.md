@@ -31,7 +31,7 @@ Kindle ASIN: B00YSILNL0<br>
 
 <br>
 
-[![](./images/CRBadgeNotableBook.jpg)](http://www.computingreviews.com/recommend/bestof/notableitems.cfm?bestYear=2016)
+[![](./Users/william/Documents/Documents/williamfinalproject/web scrapy/worldcup2018_draft/scrapy project practice/Screen Shot 2018-08-18 at 4.03.53 PM.jpg)]
 
 <br>
 
