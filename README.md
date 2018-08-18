@@ -19,19 +19,12 @@ The 2018 FIFA World Cup qualification process was a series of tournaments organi
 
 ---
 
-[![](./images/pymle_cover_double_small.jpg)](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=sr_1_1?ie=UTF8&qid=1470882464&sr=8-1&keywords=python+machine+learning)
+[![](./images/pymle_cover_double_small.jpg)]
 
-1st edition, published September 23rd 2015<br>
-Paperback: 454 pages<br>
-Publisher: Packt Publishing<br>  
-Language: English<br>
-ISBN-10: 1783555130<br>  
-ISBN-13: 978-1783555130<br>
-Kindle ASIN: B00YSILNL0<br>
 
 <br>
 
-[![](/Users/william/Documents/Documents/williamfinalproject/web scrapy/worldcup2018_draft/scrapy project practice/Screen Shot 2018-08-18 at 4.03.53 PM.jpg)]
+[![](/Users/william/Documents/Documents/williamfinalproject/web scrapy/worldcup2018_draft/scrapy project practice/Screen Shot 2018-08-18 at 4.03.53 PM.jpg)](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=sr_1_1?ie=UTF8&qid=1470882464&sr=8-1&keywords=python+machine+learning)
 
 <br>
 
