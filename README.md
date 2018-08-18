@@ -1,13 +1,12 @@
 # Web Scrapying Project 
 
-
-[![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/python-machine-learning-reader-discussion-board)
-
 ---
 
-#### IMPORTANT NOTE (09/21/2017):
+#### Web - Wikipedia:
 
-This GitHub repository contains the code examples of the **1st Edition** of Python Machine Learning book. If you are looking for the code examples of the **2nd Edition**, please refer to [this](https://github.com/rasbt/python-machine-learning-book-2nd-edition#whats-new-in-the-second-edition-from-the-first-edition) repository instead. 
+The 2018 FIFA World Cup qualification process was a series of tournaments organised by the six FIFA confederations to decide 31 of the 32 teams which will play in the 2018 FIFA World Cup, with Russia qualifying automatically as hosts. All 210 remaining FIFA member associations were eligible to enter the qualifying process, and for the first time in World Cup history, all eligible national teams registered for the preliminary competition, but Zimbabwe and Indonesia were disqualified before playing their first matches. Bhutan, South Sudan, Gibraltar and Kosovo made their FIFA World Cup qualification debuts. Myanmar, having successfully appealed against a ban from the competition for crowd trouble during a 2014 World Cup qualifying tie against Oman, were obliged to play all their home matches outside the country.
+
+. 
 
 ---
 
